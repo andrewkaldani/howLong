@@ -4,3 +4,4 @@ This program calculates how long till you turn a certain age. Program calculates
 In the main use function howMany and enter your birthday. enter your birthday in this format howMany(m/mm,d/dd/yyyy)
 
 
+![alt tag](http://url/to/img.png)
