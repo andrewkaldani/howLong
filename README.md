@@ -5,3 +5,4 @@ In the main use function howMany and enter your birthday. enter your birthday in
 
 https://user-images.githubusercontent.com/59716037/84582548-3ee93700-ada2-11ea-8a35-a66342545ed3.png
 
+<img width="479" alt="howManytest" src="https://user-images.githubusercontent.com/59716037/84582592-bd45d900-ada2-11ea-9313-a1538454c4d2.png">
